@@ -1,4 +1,4 @@
-# NVIDIA-Cleaner-shader-cache-tool
+# NVIDIA Shader Cache Cleaner
 Kills NVIDIA background tasks → Cleans the NVIDIA cache folder → Restarts the tasks → Notifies you of progress.
 
 

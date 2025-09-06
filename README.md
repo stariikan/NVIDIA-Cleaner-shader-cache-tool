@@ -30,3 +30,8 @@ You’ll see toast notifications for:
 - Cleanup finished
 
 - Processes restarted
+
+Requirements:
+
+- Python installed (or convert to .exe for standalone use).
+- Python libraries: win10toast.
